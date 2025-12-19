@@ -8,7 +8,7 @@ This project demonstrates real-world frontend skills including UI/UX, state mana
 ## 🚀 Live Demo
 
 🔗 **Live URL (Vercel):**  
-👉 https://YOUR-VERCEL-LINK.vercel.app
+👉 blog-admin-dashboard-beta.vercel.app
 
 ---
 
@@ -146,6 +146,6 @@ npm install
 npm run dev
 
 Open in browser and run
-http://localhost:5173
+👉 http://localhost:5173
 
 
