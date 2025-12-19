@@ -8,7 +8,7 @@ This project demonstrates real-world frontend skills including UI/UX, state mana
 ## 🚀 Live Demo
 
 🔗 **Live URL (Vercel):**  
-👉 blog-admin-dashboard-beta.vercel.app
+👉 [blog-admin-dashboard-beta.vercel.app](https://blog-admin-dashboard-beta.vercel.app/)
 
 ---
 
