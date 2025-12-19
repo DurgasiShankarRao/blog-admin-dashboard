@@ -103,6 +103,9 @@ This dashboard allows an admin to manage blogs with full **CRUD functionality**,
 
 ## 🗂️ Folder Architecture
 
+
+<img width="711" height="500" alt="image" src="https://github.com/user-attachments/assets/a956f2fc-add0-4833-8aac-9915c3ab1412" />
+
 src/
 ├── components/
 │   ├── Sidebar.jsx        # Sidebar navigation (desktop + mobile)
@@ -149,4 +152,9 @@ npm run dev
 Open in browser and run
 👉 http://localhost:5173
 
+
+👤 Author
+Durgasi Sankar Rao
+Frontend Developer Candidate
+India 🇮🇳
 
