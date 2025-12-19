@@ -106,24 +106,6 @@ This dashboard allows an admin to manage blogs with full **CRUD functionality**,
 
 <img width="711" height="500" alt="image" src="https://github.com/user-attachments/assets/a956f2fc-add0-4833-8aac-9915c3ab1412" />
 
-src/
-├── components/
-│   ├── Sidebar.jsx        # Sidebar navigation (desktop + mobile)
-│   ├── Navbar.jsx         # Top navigation bar
-│   ├── BlogForm.jsx       # Add/Edit blog form
-│   ├── BlogList.jsx       # Blog table, search, filter, pagination
-│
-├── pages/
-│   └── Dashboard.jsx     # Main dashboard (state management)
-│
-├── utils/
-│   └── storage.js        # LocalStorage helpers
-│
-├── App.jsx
-├── main.jsx
-├── index.css
-
-
 
 **Architecture Note:**  
 The `Dashboard` component acts as the single source of truth, while child components handle UI and user interactions.
