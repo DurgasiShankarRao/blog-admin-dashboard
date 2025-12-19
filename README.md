@@ -103,22 +103,23 @@ This dashboard allows an admin to manage blogs with full **CRUD functionality**,
 
 ## 🗂️ Folder Architecture
 
- src/
-│── components/
-│ ├── Sidebar.jsx # Sidebar navigation (desktop + mobile)
-│ ├── Navbar.jsx # Top navigation bar
-│ ├── BlogForm.jsx # Add/Edit blog form
-│ ├── BlogList.jsx # Blog table, search, filter, pagination
+src/
+├── components/
+│   ├── Sidebar.jsx        # Sidebar navigation (desktop + mobile)
+│   ├── Navbar.jsx         # Top navigation bar
+│   ├── BlogForm.jsx       # Add/Edit blog form
+│   ├── BlogList.jsx       # Blog table, search, filter, pagination
 │
-│── pages/
-│ └── Dashboard.jsx # Main dashboard (state management)
+├── pages/
+│   └── Dashboard.jsx     # Main dashboard (state management)
 │
-│── utils/
-│ └── storage.js # LocalStorage helpers
+├── utils/
+│   └── storage.js        # LocalStorage helpers
 │
-│── App.jsx
-│── main.jsx
-│── index.css
+├── App.jsx
+├── main.jsx
+├── index.css
+
 
 
 **Architecture Note:**  
